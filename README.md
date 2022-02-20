@@ -1,4 +1,4 @@
-# Akka Behavior and Actors ( both typed and classical )
+# Akka Behaviors and Actors ( both typed and classical )
 
 This repository contains files which are developed based on  
 [Practical Java concurrency with the Akka Actor Model
