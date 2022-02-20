@@ -7,7 +7,7 @@ This repository contains files which are developed based on
 [PrimeMain](https://github.com/mbronshteyn/akka/blob/master/src/main/java/PrimeMain.java) is the class where typed behaviors and actors are defined.
 
 To run an example sync the project and run `PrimeMain` java class.<br>
-This class developed with `typed Akka.
+
 
 If you would like to take a look at Classical Akka please follwo [App](https://github.com/mbronshteyn/akka/blob/master/src/main/java/App.java)
 class.
