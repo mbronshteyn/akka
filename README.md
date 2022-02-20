@@ -9,7 +9,7 @@ This repository contains files which are developed based on
 To run an example sync the project and run `PrimeMain` java class.<br>
 
 
-If you would like to take a look at Classical Akka please follwo [App](https://github.com/mbronshteyn/akka/blob/master/src/main/java/App.java)
+If you would like to take a look at Classical Akka please follow [App](https://github.com/mbronshteyn/akka/blob/master/src/main/java/App.java)
 class.
 
 
