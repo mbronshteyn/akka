@@ -1,4 +1,4 @@
-package behavior;
+package prime.behavior;
 
 import akka.actor.typed.ActorRef;
 import akka.actor.typed.Behavior;
@@ -9,7 +9,6 @@ import akka.actor.typed.javadsl.Receive;
 
 import java.io.Serializable;
 import java.math.BigInteger;
-import java.util.Random;
 import java.util.SortedSet;
 import java.util.TreeSet;
 

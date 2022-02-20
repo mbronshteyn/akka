@@ -1,5 +1,7 @@
+package prime;
+
 import akka.actor.typed.ActorSystem;
-import behavior.ManagerBehavior;
+import prime.behavior.ManagerBehavior;
 
 import java.util.Calendar;
 

@@ -1,4 +1,4 @@
-package behavior;
+package firstsimplebehavior.behavior;
 
 import akka.actor.typed.ActorRef;
 import akka.actor.typed.Behavior;

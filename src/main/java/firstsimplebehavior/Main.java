@@ -1,5 +1,7 @@
+package firstsimplebehavior;
+
 import akka.actor.typed.ActorSystem;
-import behavior.FirstSimpleBehavior;
+import firstsimplebehavior.behavior.FirstSimpleBehavior;
 
 public class Main {
   public static void main(String[] args) {
